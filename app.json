@@ -2,7 +2,7 @@
   "expo": {
     "name": "notToday",
     "slug": "nottoday",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "nottoday",
@@ -16,7 +16,7 @@
       },
       "predictiveBackGestureEnabled": true,
       "package": "com.ethan.nottoday",
-      "versionCode": 2,
+      "versionCode": 3,
       "permissions": [
         "android.permission.REQUEST_INSTALL_PACKAGES"
       ]

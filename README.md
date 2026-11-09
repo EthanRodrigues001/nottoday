@@ -62,6 +62,19 @@ The app looks for a newer release when it opens (at most every six hours) and un
 - **Reminders.** A morning digest at 08:00 and an evening nudge at 20:00 if something due today is still open. Both times are editable in Settings. No notification per WhatsApp message.
 - **Backup.** Export everything to a JSON file and restore it later.
 
+<table>
+  <tr>
+    <td width="50%"><img src=".github/assets/today.png" alt="Today: a birthday card, four open tasks with the first marked as top priority and slip counts on two of them, and a week strip with progress rings" /><br/><sub><b>Today.</b> Birthdays first, then your tasks in your order. The top one is marked, and slips show on the row.</sub></td>
+    <td width="50%"><img src=".github/assets/calendar.png" alt="Calendar: a November month grid with dots on days that have tasks, and the list for the selected day below" /><br/><sub><b>Calendar.</b> A dot on every day with something due. Tap a day to see or add to it.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src=".github/assets/later.png" alt="Later: two Someday tasks with Do today buttons and three birthdays with days until each" /><br/><sub><b>Later.</b> Someday tasks, and every birthday with the days left.</sub></td>
+    <td width="50%"><img src=".github/assets/settings.png" alt="Settings: back up and restore, morning and evening reminder times, and the update check" /><br/><sub><b>Settings.</b> Backup, reminder times and the update check.</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Screenshots use sample data.</sub></p>
+
 ## WhatsApp suggestions
 
 The **Inbox** tab holds possible tasks and birthdays found in your messages, and a badge shows how many are waiting.
